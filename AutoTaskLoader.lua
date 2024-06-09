@@ -1,4 +1,4 @@
--- Script fixo que será exibido na interface e executado
+-- Script fixo que será exibido na interface e executado teste1
 local fixed_script = [[
 macro(100, function()
     -- Função para ajustar o nome da criatura
